@@ -2,8 +2,8 @@
 ## Overview
 This project uses the Bank Marketing Dataset from the UCI Machine Learning Repository, which contains data from direct phone‑based marketing campaigns conducted by a Portuguese bank.
 The goal is to predict whether a client will subscribe to a term deposit (y).
-A full description of the dataset is available at the original UCI source.
-https://archive.ics.uci.edu/ml/datasets/Bank+Marketing
+A full description of the dataset is available at source:
+https://www.kaggle.com/datasets/sahistapatel96/bankadditionalfullcsv.
 
 Through exploratory data analysis, several important characteristics of the dataset were identified:
 - Strong seasonality across months, indicating that customer behavior changes significantly over time.
